@@ -31,3 +31,7 @@ Note that there are dependencies among the data cleaning Jupyter notebooks. The 
   - Output in `data/yelp_user_cleaned.feather`
 
 ## Model
+
+- **Baseline model**: `models/base_model.ipynb`
+- **Advanced model**: `models/advanced_model.ipynb`
+- **Extended advanced model**: `models/final_model.ipynb`
