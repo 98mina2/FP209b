@@ -33,5 +33,5 @@ Note that there are dependencies among the data cleaning Jupyter notebooks. The 
 ## Model
 
 - **Baseline model**: `models/base_model.ipynb`
-- **Advanced model**: `models/advanced_model.ipynb`
-- **Extended advanced model**: `models/final_model.ipynb`
+- **NCF model**: `models/advanced_model.ipynb`
+- **NCF model with extended features**: `models/final_model.ipynb`
